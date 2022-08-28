@@ -48,7 +48,7 @@ let repeat = function(activeClass){
     return
    }
    repeater()
-  }, 3000)
+  }, 7000)
  }
  repeater()
 }
